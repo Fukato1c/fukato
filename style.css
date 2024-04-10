@@ -1,2 +1,3 @@
 @charset "atf8";
-body {background-image: linear-gradient(to right,rgb(188, 0, 0),rgb(0, 0, 0));}
+body {background-image: linear-gradient(to right,rgb(0, 0, 0),rgb(255, 255, 255));}
+#title {color:white}
